@@ -6,6 +6,22 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/NewMap.umap",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Player/BP_Player.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Guard/BP_Guard.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/Ai_path_point.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Objectid/testing_box.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/BP_NPC.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/BT_NPC.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/BB_NPC.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/task/BTT_moveRandomLocation.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/NewMaterial.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/AiBehviour.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/BTTask_control.uasset",
+				"C:/Users/123mi/OneDrive/Dokumenty/GitHub/Password123/password123test/Content/Ai/Ai_NPC.uasset",
 				"C:/Users/admin/Desktop/Password123/password123test/Content/NewMap.umap",
 				"C:/Users/admin/Documents/Unreal Projects/password123test/Content/StarterContent/Audio/Collapse01.uasset"
 			]
